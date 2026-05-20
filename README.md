@@ -7,7 +7,7 @@ industry-recognized programs in product analytics and data analysis.
 
 ## 1. Product Analytics Micro-Certification — Mixpanel x Product School
 **Issued by:** Product School & Mixpanel  
-**Date:** September 2026  
+**Date:** March 2026  
 **Certificate No:** cert_b2lhjjsj  
 **Skills covered:** Product metrics, funnel analysis, retention analysis, 
 user segmentation, event tracking
@@ -24,6 +24,7 @@ consulting task simulation
 ---
 
 ## 3. AI Fluency: Frameworks & Foundations — Anthropic
-**Issued by:** Anthropic  
+**Issued by:** Anthropic
+**Date:** February 2026
 **Skills covered:** AI concepts, frameworks, responsible AI usage, 
 practical AI applications in professional contexts
